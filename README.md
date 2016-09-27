@@ -6,5 +6,5 @@
 <ol>
 <li>Rock-paper-scissors-lizard-Spock Game</li>
 <li>Hangman Game</li>
-  <p>For this game you need to download <i>hangman.py</i> and <i>words.txt</i> and save them in a same directory/folder. </p>
+ <li>Python Program to backup file(s)</li>
 </ol>
