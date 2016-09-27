@@ -2,7 +2,9 @@
 
 ### 
 #created by: Parth Patel
-#@spiritualProgrammr
+#'''For this game you need to download <i>hangman.py</i> and <i>words.txt</i> and save them in a same directory/folder.'''
+### link to words.txt
+# https://github.com/Parth-Patel12/python-experiments/blob/master/words.txt
 ###
 import string
 import random
